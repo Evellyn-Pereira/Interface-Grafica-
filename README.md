@@ -1,4 +1,4 @@
-# Interface Gráfica - JTable
+# Interface Gráfica
 
 
 # Projeto do Programa
